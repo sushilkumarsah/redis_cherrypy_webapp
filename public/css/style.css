@@ -1,0 +1,10 @@
+thead th {
+background-color: #BDEAFF;
+width: 100px;
+}
+tbody th {
+background-color: #FFFF99;
+}
+td {
+text-align: center;
+}
